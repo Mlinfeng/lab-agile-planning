@@ -1,13 +1,17 @@
 ---
-name: User story
-about: core
+name: user story
+about: describe
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-### Details and Assumptions
+**As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
+   
+ ### Details and Assumptions
  * [document what you know]
    
  ### Acceptance Criteria  
